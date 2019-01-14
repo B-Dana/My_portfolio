@@ -12,6 +12,7 @@ _This is a Portfolio website done in order to assess our understanding of key co
 
 * _Clone repository from Github https://github.com/B-Dana/my-portfolio.git_
 * _Open in any browser_
+* _Or go to https://b-dana.github.io/my-portfolio/_
 
 ## Known Bugs
 
